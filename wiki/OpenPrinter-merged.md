@@ -1,0 +1,4 @@
+## OpenPrinter merged with us!!!
+
+Yes, you have heard it right. [OpenPrinter](https://openprinter.fandom.com/) is merged into this project.
+OpenPrinter is a small, mostly unmaintained project. The head of PrintFreely, [Pythone](https://github.com/pythone/), was the one updating the wiki with recent information. One Wikia member by the name of [Chnoeli](https://openprinter.fandom.com/f/u/50597485/) is helping. In other words, we were the only ones carrying the OpenPrinter torch! I(Pythone) Started PrintFreely before noticing OpenPrinter. I tried to work on both at the same time, which made me tired of working on both. However, It got me used to both GitHub Pages and Wikia. Since, I and Chnoeli were the only ones making progress so far because the souls who had created OpenPrinter abandoned it, I decided to merge both projects under PrintFreely because I am admin of this wiki and I maintained both. My wikia is [FanOfTux](https://openprinter.fandom.com/f/u/50326260/).
